@@ -1,0 +1,7 @@
+*                  @nickw444
+component1/A/*     @nickw444
+component1/A/*.es6 @facebook-github-bot
+component1/A/*.js  @octocat
+component1/C/*     @nickw444
+component1/D/D.es6 @nickw444
+component1/*       @octocat
