@@ -1,0 +1,3 @@
+@nickw444
+per-file *.js=@octocat
+per-file *.es6=@facebook-github-bot
