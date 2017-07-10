@@ -1,3 +1,2 @@
-@nickw444
-per-file *.js=@octocat
-per-file *.es6=@facebook-github-bot
+@nickw444-collect-owners-demo-2
+per-file *.js=@nickw444-collect-owners-demo-1

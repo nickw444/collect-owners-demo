@@ -1,3 +1,1 @@
-This file should be owned by @octocat as the default directory owner.
-
-Test octocat owner
+This file should be owned by @nickw444-collect-owners-demo-1 as the default directory owner.

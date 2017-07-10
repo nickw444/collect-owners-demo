@@ -1,1 +1,1 @@
-This file should be owned by @octocat, inherited from the parent OWNERS file.
+This file should be owned by the parent owners (@nickw444-collect-owners-demo-1).
