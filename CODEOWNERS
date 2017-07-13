@@ -1,6 +1,7 @@
 *                  @nickw444
+component1/*       @nickw444-collect-owners-demo-1
 component1/A/*     @nickw444-collect-owners-demo-2
 component1/A/*.js  @nickw444-collect-owners-demo-1
+component1/B/*     @nickw444-collect-owners-demo-1
 component1/C/*     @nickw444-collect-owners-demo-2
 component1/D/D.es6 @nickw444-collect-owners-demo-2
-component1/*       @nickw444-collect-owners-demo-1
